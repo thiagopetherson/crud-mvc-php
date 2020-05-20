@@ -12,6 +12,8 @@ Qualquer dúvida é só entrar em contato pelo meu email que está divulgado aqu
 
 O arquivo do banco de dados mysql, b7_contatos.sql, segue aqui também.
 
+Não esqueçam de modificar o arquivo .htaccess e o config.pgp, se necessário.
+
 #Bom Uso!
 #Que a força esteja com vocês.
 
