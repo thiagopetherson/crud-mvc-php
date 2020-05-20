@@ -10,5 +10,8 @@ O código está todo comentadinho para fácil entendimento de quem o lê.
 
 Qualquer dúvida é só entrar em contato pelo meu email que está divulgado aqui no Github. 
 
+O arquivo do banco de dados mysql, b7_contatos.sql, segue aqui também.
+
 #Bom Uso!
+#Que a força esteja com vocês.
 
